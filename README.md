@@ -1,4 +1,4 @@
-# RenamingFiles-PNG
+# RenamingPNGFiles
 Steps to run the project
 1) Open the project.
 2) in file manager script change the renaming format and save the file.
